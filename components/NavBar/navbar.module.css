@@ -12,9 +12,6 @@
   cursor: pointer;
 }
 
-.navLeft {
-}
-
 .navRight {
   display: flex;
   align-items: center;
