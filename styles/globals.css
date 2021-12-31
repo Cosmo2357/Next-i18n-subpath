@@ -1,3 +1,6 @@
+:root {
+  --fc-dark: #000;
+}
 html,
 body {
   padding: 0;
@@ -17,6 +20,7 @@ a {
 
 h1 {
   font-size: 16px;
+  color: var(--fc-dark);
 }
 h2 {
   font-size: 12px;
