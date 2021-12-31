@@ -1,17 +1,5 @@
 {
-  "locales": [
-    "zh-CN",
-    "zh-TW",
-    "zh-HK",
-    "en-US",
-    "es",
-    "pt",
-    "ar",
-    "ru",
-    "ja",
-    "fr",
-    "nl-NL"
-  ],
+  "locales": ["zh-CN", "en-US", "es", "ar", "ja", "fr"],
   "defaultLocale": "en-US",
   "pages": { "*": ["common"] }
 }

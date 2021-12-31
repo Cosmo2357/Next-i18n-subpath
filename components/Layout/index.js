@@ -6,7 +6,9 @@ export default function Index({ children }) {
   return (
     <div>
       <NavBar />
-      <div className={styles.main}>{children}</div>
+      <div className={styles.main} style={{ padding: "0 16px" }}>
+        {children}
+      </div>
       <Footer />
     </div>
   );
